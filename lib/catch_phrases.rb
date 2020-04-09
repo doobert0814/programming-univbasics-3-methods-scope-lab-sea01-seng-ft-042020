@@ -14,8 +14,8 @@ def link
 end
 
 def all_phrases
-  all_phrases = 'phrase', 'status', 'saying'
-  #puts "mario", "toadstool", "link"
+  #all_phrases = 'phrase', 'status', 'saying'
+  puts "mario", "toadstool", "link"
 end
 
 all_phrases 
