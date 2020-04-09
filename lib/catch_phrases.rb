@@ -10,7 +10,7 @@ end
 
 def link 
  saying =  "It's Dangerous To Go Alone! Take This."
-  puts 
+  puts saying
 end
 
 def all_phrases
