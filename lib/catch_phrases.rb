@@ -18,4 +18,4 @@ def all_phrases
   puts "mario", "toadstool", "link"
 end
 
-all_phrases 
+all_phrases (phrase', 'status', 'saying')
