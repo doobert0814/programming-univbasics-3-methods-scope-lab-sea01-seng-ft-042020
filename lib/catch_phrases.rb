@@ -17,4 +17,4 @@ def all_phrases
   puts phrase, status, saying
 end
 
-all_phrases "mario", "toadstool", "link"
+all_phrases 
